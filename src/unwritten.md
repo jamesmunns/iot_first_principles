@@ -1,10 +1,12 @@
-# Unwritten Chapters
-
-These chapters haven't been started yet!
+# In Progress Chapters
 
 ## Constrained Devices
 
 What are the "Things" in the Internet of Things?
+
+# Unwritten Chapters
+
+These chapters haven't been started yet!
 
 ## Sensors: Accuracy, Precision, and Calibration
 
