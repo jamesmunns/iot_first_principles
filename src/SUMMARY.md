@@ -1,9 +1,9 @@
 # Summary
 
 - [Introduction](./intro.md)
-- [A Whirlwind Tour](./whirlwind.md)
 ---
 [Work In Progress Chapters]()
+[A Whirlwind Tour](./whirlwind.md)
 [Constrained Devices](./constrained.md)
 ---
 [Unwritten Chapters](./unwritten.md)
